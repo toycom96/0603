@@ -45,8 +45,7 @@ public class SampleRecyclerViewAdapter extends RecyclerView.Adapter<SampleViewHo
     private List<ItemObject> itemList;
     private Context context;
 
-    public SampleRecyclerViewAdapter(Context context,
-                                     List<ItemObject> itemList)
+    public SampleRecyclerViewAdapter(Context context, List<ItemObject> itemList)
     {
         this.itemList = itemList;
         this.context = context;
@@ -65,6 +64,7 @@ public class SampleRecyclerViewAdapter extends RecyclerView.Adapter<SampleViewHo
     {
         Picasso.with(context).load(itemList.get(position).getName()).resize(476,0).into(holder.bookName);
         holder.authorName.setText(itemList.get(position).getAuthor());
+        holder.contentId = itemList.get(position).getId();
     }
 
     @Override

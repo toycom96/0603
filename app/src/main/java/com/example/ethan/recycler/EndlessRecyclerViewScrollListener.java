@@ -65,21 +65,19 @@ public class EndlessRecyclerViewScrollListener extends RecyclerView.OnScrollList
         tmpstr = "position" + visibleItemCount +  "/" + lastVisibleItemPosition + "/" + totalItemCount;
         //Toast.makeText(view.getContext(), tmpstr, 1).show();
         if (lastVisibleItemPositions[0] + 2 >= totalItemCount) {
-            int offset = this.mActivity.items.get(totalItemCount).getId();
+            int offset = this.mActivity.items.get(totalItemCount-1).getId();
+            //this.mActivity.items.get(totalItemCount);
 
-            this.mActivity.customLoadMoreDataFromApi(offset + 0);
-            this.mActivity.customLoadMoreDataFromApi(1);
-            this.mActivity.customLoadMoreDataFromApi(2);
-            this.mActivity.customLoadMoreDataFromApi(3);
-            this.mActivity.customLoadMoreDataFromApi(4);
-            this.mActivity.customLoadMoreDataFromApi(5);
-            this.mActivity.customLoadMoreDataFromApi(6);
-            this.mActivity.customLoadMoreDataFromApi(7);
-            this.mActivity.customLoadMoreDataFromApi(8);
-            this.mActivity.customLoadMoreDataFromApi(9);
-
-
-
+            this.mActivity.customLoadMoreDataFromApi(offset + 100);
+            this.mActivity.customLoadMoreDataFromApi(offset + 101);
+            this.mActivity.customLoadMoreDataFromApi(offset + 102);
+            this.mActivity.customLoadMoreDataFromApi(offset + 103);
+            this.mActivity.customLoadMoreDataFromApi(offset + 104);
+            this.mActivity.customLoadMoreDataFromApi(offset + 105);
+            this.mActivity.customLoadMoreDataFromApi(offset + 106);
+            this.mActivity.customLoadMoreDataFromApi(offset + 107);
+            this.mActivity.customLoadMoreDataFromApi(offset + 108);
+            this.mActivity.customLoadMoreDataFromApi(offset + 109);
 
             //Toast.makeText(view.getContext(), "aaaa", 1).show();
         }

@@ -1,6 +1,7 @@
 package com.example.ethan.recycler;
 
 
+import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.app.Activity;
@@ -28,6 +29,7 @@ public class SampleViewHolders extends RecyclerView.ViewHolder implements
 {
     public ImageView bookName ;
     public TextView authorName;
+    public int contentId;
 
     public SampleViewHolders(View itemView)
     {
@@ -35,13 +37,14 @@ public class SampleViewHolders extends RecyclerView.ViewHolder implements
         itemView.setOnClickListener(this);
         bookName = (ImageView) itemView.findViewById(R.id.BookName);
         authorName = (TextView) itemView.findViewById(R.id.AuthorName);
+        contentId = 0;
     }
 
     @Override
     public void onClick(View view)
     {
         Toast.makeText(view.getContext(),
-                "Clicked Position = " + getPosition(), Toast.LENGTH_SHORT)
+                "Clicked ContentId = " + contentId, Toast.LENGTH_SHORT)
                 .show();
     }
 }

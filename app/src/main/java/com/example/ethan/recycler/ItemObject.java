@@ -24,7 +24,7 @@ public class ItemObject
     private String _name;
     private String _author;
 
-    public ItemObject(String name, String auth)
+    public ItemObject(String name, String auth, int _id)
     {
         this._name = name;
         this._author = auth;
