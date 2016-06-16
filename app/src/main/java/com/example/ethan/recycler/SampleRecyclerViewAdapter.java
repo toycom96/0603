@@ -55,7 +55,6 @@ public class SampleRecyclerViewAdapter extends RecyclerView.Adapter<SampleViewHo
     @Override
     public SampleViewHolders onCreateViewHolder(ViewGroup parent, int viewType)
     {
-        //View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.book_list_item, null);
         View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.image_over_text, null);
         SampleViewHolders rcv = new SampleViewHolders(layoutView);
         return rcv;
@@ -64,19 +63,7 @@ public class SampleRecyclerViewAdapter extends RecyclerView.Adapter<SampleViewHo
     @Override
     public void onBindViewHolder(SampleViewHolders holder, int position)
     {
-        //holder.bookName.setText(itemList.get(position).getName());
-        /*try {
-            URL url = new URL("http://cars.mclaren.com/files/live/sites/mclaren/files/cars-mclaren-com-Main/McLaren%20Model%20Section/650S%20Spider/Introduction/650Spiderintroduction-home-resize4932x2479-crop3699x2473-crop3702x2175.jpg?t=w1440");
-            Bitmap bmp = BitmapFactory.decodeStream(url.openConnection().getInputStream());
-            holder.bookName.setImageBitmap(bmp);
-        }catch(IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }*/
-
-        //Toast.makeText(context, "width = " + holder.authorName.getWidth(), 3).show();
         Picasso.with(context).load(itemList.get(position).getName()).resize(476,0).into(holder.bookName);
-        //Picasso.with(context).load(itemList.get(position).getName()).fit().into(holder.bookName);
         holder.authorName.setText(itemList.get(position).getAuthor());
     }
 

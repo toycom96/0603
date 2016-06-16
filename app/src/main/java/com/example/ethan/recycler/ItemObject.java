@@ -20,7 +20,7 @@ import java.util.List;
  */
 public class ItemObject
 {
-    //private int _id;
+    private int _id;
     private String _name;
     private String _author;
 
@@ -28,7 +28,7 @@ public class ItemObject
     {
         this._name = name;
         this._author = auth;
-        //this._id = _id;
+        this._id = _id;
     }
 
     public String getName()
@@ -51,7 +51,7 @@ public class ItemObject
         this._author = auth;
     }
 
-    //public void setId(int id) { this._id = id; }
+    public void setId(int id) { this._id = id; }
 
-    //public int getId() { return _id;}
+    public int getId() { return _id;}
 }

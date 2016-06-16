@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0023a3fb0746497a80d6ba25864eb4e6e860e35">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7a2cd1bc449ac7bb4121c0774a9d4263e154ab17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_69d99ece58c0591827c3e10de80f8585e9810b42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9dffcdbc9ddf60b167f56aa32580d70268d19a4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4c3c5bb2f8e567ca8595e2762146161048f52a22/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b8ca0a36777f0d4930ba949aad139bd586c68553/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_bf4588e54ac6fc99a166f5a679a08067475fe8b5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4557ddad92acabab572351df3121866df32d6495">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d9b5553fb088d402d5bede3ddf6b7527b3a848b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ad2cdd1bbc13612dd4c7ef27887420e53e6ca41d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_998625f754ca81d195d27805702c8745d4d35888/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c115544bcddcd13ae1814563b860eae7b7306fb5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_d394ede8eac8f351a419fb6e2e092433b6855bc9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="583157cb8408c1a640c9fed167b6997e7ce365d5">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_336c49339716ec014aa7060659db365499590b22/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_097d739410abaa8ec1c178b78c65a8c98640a759/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_7aa5b31cb91497a3339bf4cf21080bb2e0d60ad8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_b760bd7b80426d7cbfdc00015512a71804efd226/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_5a88cda78a88409d09a373b7e9f0b8d10014e70a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3e7d12190f75a2fddb766288f0799fe236d3f4a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8e79f85dd1f08e77e3c8883c358364c684533cb">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7cd5b58aa04b341995c8a04b9204527602857170/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ethan/AndroidStudioProjects/recycler2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_30fc7949d199d18365f76d5f964d36bbc007ecbf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ethan/AndroidStudioProjects/0603/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4d76103c9431f39126ef79b3ab180e7dda18edbb/classes.dex" />
+    </item>
+
+</items>
